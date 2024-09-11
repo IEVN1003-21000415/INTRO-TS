@@ -15,3 +15,13 @@ const Alumno:Alumno=
     email:'mario@gmail.com',
     
 }
+console.table(Alumno);
+
+let mascotas=['perro', 'gato', 'perico'];
+mascotas.push('leon');
+console.log(mascotas);
+
+let tem:(string|number)[]=[];
+tem.push(11);
+tem.push('hola');
+console.log(tem);
