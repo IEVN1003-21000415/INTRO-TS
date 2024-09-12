@@ -4,7 +4,11 @@ import './temas-ts/02-intefas.ts'
 import './temas-ts/03-funciones.ts'
 import './temas-ts/04-desestructuracion.ts'
 import './temas-ts/05-destructura-funciones.ts'
+import './temas-ts/08-herencias.ts'
+import './temas-ts/practica1-Formulageneral.ts'
+
 import typescriptLogo from './typescript.svg'
+
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
 
