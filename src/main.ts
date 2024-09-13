@@ -1,11 +1,13 @@
 import './style.css'
-import './temas-ts/01-tiposDat.ts'
+/**import './temas-ts/01-tiposDat.ts'
 import './temas-ts/02-intefas.ts'
 import './temas-ts/03-funciones.ts'
 import './temas-ts/04-desestructuracion.ts'
 import './temas-ts/05-destructura-funciones.ts'
 import './temas-ts/08-herencias.ts'
-import './temas-ts/practica1-Formulageneral.ts'
+import './temas-ts/practica1-Formulageneral.ts'**/
+import './temas-ts/Practica 2-area.ts'
+import './temas-ts/practica2-Volumen.ts'
 
 import typescriptLogo from './typescript.svg'
 
